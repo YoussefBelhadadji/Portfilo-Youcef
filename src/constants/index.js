@@ -129,7 +129,7 @@ const projects = [
       { name: "javascript", color: "yellow-text-gradient" },
     ],
     image: coffeeProject,
-    source_code_link: "https://github.com/youssefbelhadadji/Coffee",
+    source_code_link: "https://youssefbelhadadji.github.io/Coffee/",
   },
   {
     name: "AI News Website",
