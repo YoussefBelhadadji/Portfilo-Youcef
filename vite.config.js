@@ -5,3 +5,4 @@ export default defineConfig({
   base: '/Portfilo-Youcef/', // هذا هو اسم الريبو في GitHub
   plugins: [react()],
 })
+

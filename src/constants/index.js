@@ -155,7 +155,7 @@ const projects = [
       { name: "swiper.js", color: "purple-text-gradient" },
     ],
     image: CarStore,
-    source_code_link: "https://github.com/", // غيّر هذا الرابط إلى رابط الكود الفعلي للمشروع
+    source_code_link: "https://youssefbelhadadji.github.io/Cars/", // غيّر هذا الرابط إلى رابط الكود الفعلي للمشروع
   },
 ];
 
